@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Python - Django.**
 
-- 💬 Ask me about **android, python, django.**
+- 💬 Ask me about **android, python, django, kotlin, java.**
 
 - 📫 How to reach me **kardelen.cetin@outlook.com.tr**
 
