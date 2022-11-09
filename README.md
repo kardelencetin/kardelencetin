@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/projects/404/f87ea6147250313.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kardelencetin&label=Profile%20views&color=e292d3&style=flat" alt="kardelencetin" /> </p>
 
 - 🌱 I’m currently learning **Kotlin, Python - Django.**
 
