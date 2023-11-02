@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **android, python, django, kotlin, java.**
 
-- 📫 How to reach me **kardelen.cetin@outlook.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
