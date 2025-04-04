@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kardelen Cetin</h1>
-<h3 align="center">I am android and full stack developer also computer engineer.</h3>
+<h3 align="center">I am an Android Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/projects/404/f87ea6147250313.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg">
 
