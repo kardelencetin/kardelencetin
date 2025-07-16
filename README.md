@@ -8,12 +8,12 @@
   </a>
 </p>
 
-<img align="right" alt="Android Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhN2F5MDJpaDk0Z2N6ZGljd2w0Y3k0dGdxMWFzZXJ5N2QxNGloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
-
 # 👋 Hi, I’m Kardelen
 
 I'm a passionate **Android Developer** with a knack for building sleek, scalable mobile apps that make life easier.  
 Focused on **Kotlin** and **modern Android**, I love learning new tools and pushing the boundaries of mobile development.
+
+<img align="right" alt="Android Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhN2F5MDJpaDk0Z2N6ZGljd2w0Y3k0dGdxMWFzZXJ5N2QxNGloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ---
 
