@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img align="right" alt="Android Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm11cjBzdzRoNDF1ZzEzMzg2amI4NmphenM2ZzMzbmVjOW9qOHo5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" />
+<img align="right" alt="Android Coding" width="300" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l" />
 
 # 👋 Hi, I’m Kardelen
 
