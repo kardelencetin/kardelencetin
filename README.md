@@ -77,7 +77,6 @@ Focused on **Kotlin** and **modern Android**, I love learning new tools and push
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kardelencetin&show_icons=true&theme=radical" alt="Kardelen's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kardelencetin&theme=radical" alt="Kardelen's GitHub streak"/>
 </p>
 
