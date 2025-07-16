@@ -10,16 +10,16 @@
 
 <table>
 <tr>
-<td width="60%">
-  
-# 👋 Hi, I’m Kardelen
+<td width="62%">
 
-I'm a passionate **Android Developer** with a knack for building sleek, scalable mobile apps that make life easier.  
-Focused on **Kotlin** and **modern Android**, I love learning new tools and pushing the boundaries of mobile development.
+<h1>👋 Hi, I’m Kardelen</h1>
+
+I'm a passionate <b>Android Developer</b> with a knack for building sleek, scalable mobile apps that make life easier.<br>
+Focused on <b>Kotlin</b> and <b>modern Android</b>, I love learning new tools and pushing the boundaries of mobile development.
 
 </td>
-<td>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhN2F5MDJpaDk0Z2N6ZGljd2w0Y3k0dGdxMWFzZXJ5N2QxNGloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="240" alt="Android Coding" />
+<td align="right" valign="top">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlhN2F5MDJpaDk0Z2N6ZGljd2w0Y3k0dGdxMWFzZXJ5N2QxNGloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="190" alt="Android Coding" />
 </td>
 </tr>
 </table>
