@@ -88,11 +88,4 @@ Focused on <b>Kotlin</b> and <b>modern Android</b>, I love learning new tools an
 
 ---
 
-## 🌟 Featured Projects
-
-- [**Plant App**](https://github.com/kardelencetin/PlantApp): Modern Android plant care app
-- [**Tablet Application**](https://github.com/kardelencetin/TabletApplication): Android tablet UI 
-
----
-
 <p align="center"><i>“Keep coding, keep learning 🚀”</i></p>
