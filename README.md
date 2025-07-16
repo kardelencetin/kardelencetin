@@ -8,61 +8,59 @@
   </a>
 </p>
 
----
+<img align="right" alt="Android Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" alt="Android Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# 👋 Hi, I’m Kardelen
 
-### 👋 Hi, I’m Kardelen
-
-I’m a passionate **Android Developer** with a knack for building sleek, scalable mobile apps that make life easier.  
-My focus is on **Kotlin**, but I love exploring new tools, frameworks, and best practices. I’m always up for a challenge, and never stop learning.
+I'm a passionate **Android Developer** with a knack for building sleek, scalable mobile apps that make life easier.  
+Focused on **Kotlin** and **modern Android**, I love learning new tools and pushing the boundaries of mobile development.
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-- 📱 **Android Apps**: Kotlin, Java, Jetpack Compose, XML
-- 🖌️ **UI/UX Design**: Figma, modern mobile design trends
-- ☁️ **Backend Integration**: RESTful APIs, Firebase, SQLite
-- 🧩 **Full Stack Hobbyist**: Python, Django, SQL, Postman
-
----
-
-### 🌱 Currently Exploring
-
-- 📖 Kotlin Multiplatform Mobile (KMM)
-- 🕹️ Wear OS development
-  
----
-
-### 💡 Fun Facts
-
-- 💬 **Ask me about:** Android, Kotlin, Compose, Firebase, UI design, Python, Django  
-- 🏆 Love contributing to open source & sharing what I learn
-- 🏄 In my free time: reading, hiking, new tech & science documentaries!
+- **Android Apps**: Kotlin, Java, Jetpack Compose, XML  
+- **UI/UX Design**: Figma, modern trends  
+- **Backend Integration**: RESTful APIs, Firebase, SQLite  
+- **Full Stack Hobbyist**: Python, Django, SQL
 
 ---
 
-### 📫 How to Reach Me
+## 🌱 Currently Exploring
+
+- Kotlin Multiplatform Mobile (KMM)
+- Wear OS development
+
+---
+
+## 💡 Fun Facts
+
+- 💬 Ask me about: Android, Kotlin, Compose, Firebase, UI design, Python  
+- 🏆 I enjoy open-source and sharing what I learn  
+- 🌄 In my free time: reading, hiking, and exploring tech & science docs
+
+---
+
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/kardelen-cetin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/17966350" target="blank">
+  <a href="https://stackoverflow.com/users/17966350" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@krdlnctn1981" target="blank">
+  <a href="https://medium.com/@krdlnctn1981" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/krdlnctn98" target="blank">
+  <a href="https://www.hackerrank.com/krdlnctn98" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
@@ -78,7 +76,7 @@ My focus is on **Kotlin**, but I love exploring new tools, frameworks, and best 
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kardelencetin&show_icons=true&theme=radical" alt="Kardelen's GitHub stats" height="180"/>
@@ -87,10 +85,10 @@ My focus is on **Kotlin**, but I love exploring new tools, frameworks, and best 
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-- [**Plant App**](https://github.com/kardelencetin/PlantApp)
-- [**Tablet Application**](https://github.com/kardelencetin/TabletApplication)
+- [**Plant App**](https://github.com/kardelencetin/PlantApp): Modern Android plant care app (Jetpack Compose, Firebase)
+- [**Tablet Application**](https://github.com/kardelencetin/TabletApplication): Android tablet UI demo & features
 
 ---
 
