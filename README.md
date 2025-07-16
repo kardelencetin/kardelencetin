@@ -26,7 +26,7 @@ Focused on **Kotlin** and **modern Android**, I love learning new tools and push
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Exploring
 
 - Kotlin Multiplatform Mobile (KMM)
 - Wear OS development
@@ -36,8 +36,6 @@ Focused on **Kotlin** and **modern Android**, I love learning new tools and push
 ## 💡 Fun Facts
 
 - 💬 Ask me about: Android, Kotlin, Compose, Firebase, UI design, Python  
-- 🏆 I enjoy open-source and sharing what I learn  
-- 🌄 In my free time: reading, hiking, and exploring tech & science docs
 
 ---
 
