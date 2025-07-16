@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="62%" style="border:none">
+<td width="80%" style="border:none">
 
 <h1>👋 Hi, I’m Kardelen</h1>
 I'm a passionate <b>Android Developer</b> with a knack for building sleek, scalable mobile apps that make life easier.<br>
