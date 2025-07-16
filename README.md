@@ -87,8 +87,8 @@ Focused on **Kotlin** and **modern Android**, I love learning new tools and push
 
 ## 🌟 Featured Projects
 
-- [**Plant App**](https://github.com/kardelencetin/PlantApp): Modern Android plant care app (Jetpack Compose, Firebase)
-- [**Tablet Application**](https://github.com/kardelencetin/TabletApplication): Android tablet UI demo & features
+- [**Plant App**](https://github.com/kardelencetin/PlantApp): Modern Android plant care app
+- [**Tablet Application**](https://github.com/kardelencetin/TabletApplication): Android tablet UI 
 
 ---
 
