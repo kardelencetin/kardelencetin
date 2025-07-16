@@ -82,10 +82,4 @@ Focused on <b>Kotlin</b> and <b>modern Android</b>, I love learning new tools an
 
 ---
 
-## 📈 GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kardelencetin&" alt="kardelencetin" /></p>
-
----
-
 <p align="center"><i>“Keep coding, keep learning 🚀”</i></p>
