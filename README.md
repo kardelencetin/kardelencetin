@@ -89,7 +89,7 @@ My focus is on **Kotlin**, but I love exploring new tools, frameworks, and best 
 
 ### 🌟 Featured Projects
 
-- [**Plant App**]([https://github.com/kardelencetin/plantApp](https://github.com/kardelencetin/PlantApp)
+- [**Plant App**](https://github.com/kardelencetin/PlantApp)
 - [**Tablet Application**](https://github.com/kardelencetin/TabletApplication)
 
 ---
