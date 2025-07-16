@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kardelen+Cetin;Android+Developer;Always+learning+and+building!" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kardelencetin">
-    <img src="https://komarev.com/ghpvc/?username=kardelencetin&style=for-the-badge&color=0A0A0A" alt="profile views" />
-  </a>
-</p>
-
 <table>
 <tr>
 <td width="80%" style="border:none">
