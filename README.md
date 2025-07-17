@@ -24,7 +24,7 @@ Focused on <b>Kotlin</b> and <b>modern Android</b>, I love learning new tools an
 - **Android Apps**: Kotlin, Java, Jetpack Compose, XML  
 - **UI/UX Design**: Figma, modern trends  
 - **Backend Integration**: RESTful APIs, Firebase, SQLite  
-- **Full Stack Hobbyist**: Python, Django, SQL
+- **Full Stack Hobbyist**: Python, Django
 
 ---
 
